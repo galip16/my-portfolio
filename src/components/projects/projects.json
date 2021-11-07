@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Driver&Order Tracking",
+        "detail": "The confusion of which order was given to which driver disappears..",
+        "img": "https://user-images.githubusercontent.com/74236869/140657733-ec593ea1-d410-4ae0-b7fe-682b1c3410e5.png",
+        "technologies": [
+            "React",
+            "React-Bootstrap",
+            "Socket.io",
+            "MongoDB - Mongoose"
+        ],
+        "links": [
+            "https://github.com/DCI-Final-Project-2021/DriverAndOrderTracking",
+            "https://order-driver-tracking.herokuapp.com/"
+        ]
+    },
+    {
+        "title": "Add a Note",
+        "detail": "An app you can follow and note what you need to do..",
+        "img": "https://user-images.githubusercontent.com/74236869/133908898-367d6ae5-9ad1-4a18-adc5-0f3dcfc3131d.png",
+        "technologies": [
+            "React",
+            "React-Bootstrap",
+            "Firebase"
+        ],
+        "links": [
+            "https://github.com/galip16/noteApp",
+            "https://github.com/galip16/noteApp"
+        ]
+    },
+    {
+        "title": "Nostalji Sekerleme",
+        "detail": "Erstellung einer Website, auf der die Produkte und geplanten Aktivitäten eines Unternehmens verfolgt werden können...",
+        "img": "https://user-images.githubusercontent.com/74236869/140658928-d1b88f56-ecdb-42a7-91fb-b9687486538f.png",
+        "technologies": [
+            "React",
+            "React-Semantic-UI"
+        ],
+        "links": [
+            "https://github.com/Nostalji-Seker/nostalji-sekerleme",
+            "https://github.com/Nostalji-Seker/nostalji-sekerleme"
+        ]
+    }
+]

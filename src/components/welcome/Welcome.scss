@@ -1,0 +1,25 @@
+.welcome {
+
+    display: flex;
+    align-items: center;
+    // background-color: blue;
+
+
+
+
+
+
+    .welcome__items {
+
+        border: none !important;
+        border-radius: 0;
+
+
+        .welcome__logo {
+            width: 46vw !important;
+            margin-top: 2vh;
+        }
+
+
+    }
+}

@@ -1,0 +1,16 @@
+.welcome {
+  display: flex;
+
+  align-items: center;
+}
+
+.welcome .welcome__items {
+  border: none !important;
+  border-radius: 0;
+}
+
+.welcome .welcome__items .welcome__logo {
+  width: 46vw !important;
+  margin-top: 2vh;
+}
+/*# sourceMappingURL=Welcome.css.map */

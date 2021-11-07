@@ -1,0 +1,38 @@
+.skills__container {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px 0;
+
+    h2 {
+        padding: 20px;
+    }
+
+
+    .skills__img {
+
+
+        img {
+            width: 60%;
+
+
+        }
+    }
+
+    .skills__explain {
+
+        width: 90%;
+        padding: 3%;
+
+
+    }
+
+    .skills__bar {
+        width: 70%;
+
+    }
+
+
+}

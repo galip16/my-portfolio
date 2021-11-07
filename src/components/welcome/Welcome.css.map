@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,CAAC;EAEL,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;CAqBtB;;AAxBD,AAWI,QAXI,CAWJ,eAAe,CAAC;EAEZ,MAAM,EAAE,eAAe;EACvB,aAAa,EAAE,CAAC;CASnB;;AAvBL,AAiBQ,QAjBA,CAWJ,eAAe,CAMX,cAAc,CAAC;EACX,KAAK,EAAE,eAAe;EACtB,UAAU,EAAE,GAAG;CAClB",
+    "sources": [
+        "Welcome.scss"
+    ],
+    "names": [],
+    "file": "Welcome.css"
+}

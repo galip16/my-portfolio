@@ -1,0 +1,45 @@
+.projects__container .project__item {
+  margin: 0 auto;
+  width: 1200px;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.projects__container .project__item img {
+  width: 500px;
+  height: 400px;
+}
+
+.projects__container .project__item .content {
+  padding: 10px;
+  width: 500px;
+  text-align: right;
+}
+
+.projects__container .project__item .content * {
+  margin-bottom: 30px;
+}
+
+.projects__container .project__item .content h6 {
+  border: 3px solid;
+  text-align: center;
+  padding: 10px;
+  background-color: #6930c3;
+  color: white;
+}
+
+.projects__container .project__item .content .links {
+  font-size: 25px;
+}
+
+.projects__container .project__item .content .links a {
+  margin: 10px;
+  color: white;
+}
+# sourceMappingURL=Projects.css.map

@@ -1,0 +1,26 @@
+.skills__container {
+  height: 90vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.skills__container h2 {
+  padding: 20px;
+}
+
+.skills__container .skills__img img {
+  width: 60%;
+}
+
+.skills__container .skills__explain {
+  padding: 3%;
+}
+
+.skills__container .skills__bar {
+  width: 70%;
+}
+/*# sourceMappingURL=Skills.css.map */
